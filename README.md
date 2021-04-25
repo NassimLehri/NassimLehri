@@ -12,7 +12,7 @@ This repo is intended to supplement training courses and external projects relat
 | No | Course Link | Coupon Code | Price | Valid Until |
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | [Prepare the Safe 5.0 Leading Safe certificate](https://www.udemy.com/course/prepare-the-safe-50-leading-safe-certificate/?couponCode=54C4779973EF1A9D5FC4) | 54C4779973EF1A9D5FC4  | $12.99 | MAY 25 |
-| 2 | [Prepare the SAFE 5 Product Manager / Product Owner (https://www.udemy.com/course/prepare-the-safe-5-product-manager-product-owner/?couponCode=C162B28F48637132E0D7) | C162B28F48637132E0D7 | $12.99 | MAY 25 |
+| 2 | [Prepare the SAFE 5 Product Manager / Product Owner](https://www.udemy.com/course/prepare-the-safe-5-product-manager-product-owner/?couponCode=C162B28F48637132E0D7) | C162B28F48637132E0D7 | $12.99 | MAY 25 |
 | 3 | [Pass the PAL-EBM Certification](https://www.udemy.com/course/pass-the-pal-ebm-certification/?couponCode=186F06222025639676F8) | 186F06222025639676F8 | $12.99 | MAY 25  |
 | 4 | [Prepare the PAL-E (Agile Leadership - Essentials)](https://www.udemy.com/course/pass-the-pal-e-professional-agile-leadership-essentials/?couponCode=CD6F3B42F77B229A36BF) | CD6F3B42F77B229A36BF | $12.99 | MAY 25 |
 | 5 | [Pass the Product Owner II certificate](https://www.udemy.com/course/pass-the-product-owner-ii-certificate/?couponCode=549AEAF1004D80BB8392) | 549AEAF1004D80BB8392 | $12.99 | MAY 25 |
